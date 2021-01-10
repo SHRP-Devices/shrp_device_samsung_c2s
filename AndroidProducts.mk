@@ -15,3 +15,6 @@
 #
 
 PRODUCT_MAKEFILES := $(LOCAL_DIR)/omni_c2s.mk
+
+COMMON_LUNCH_CHOICES := \
+    omni_c2s-eng
